@@ -3,3 +3,9 @@
 ## About
 
 A classic 2-player Python GUI Connect 4 game, made with Pygame and NumPy.
+
+## Prerequisites
+
+- Python 3
+- `numpy` module (can be installed simply with `pip install numpy`)
+- `pygame` module (can be installed simply with `pip install pygame`)
