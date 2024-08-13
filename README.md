@@ -1,4 +1,4 @@
-# Connect 4
+# Connect 4 (2 Player)
 
 ## About
 
