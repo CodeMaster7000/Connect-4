@@ -2,4 +2,4 @@
 
 ## About
 
-A classic 2-player Python connect 4 game, made with Pygame and NumPy.
+A classic 2-player Python GUI Connect 4 game, made with Pygame and NumPy.
